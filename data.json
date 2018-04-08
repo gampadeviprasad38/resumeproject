@@ -1,0 +1,47 @@
+{
+  "basics":{
+    "name":"surya",
+    "photo":"surya.png",
+    "email":"surya@gmail.com",
+    "mobileno":"8464032835",
+    "Address":"SVIT College"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"SVIT,Anantapur",
+      "data":["2016-20","75%"]
+    },
+    {
+      "degree":"Intermediate",
+      "institute":"Sree Chaitanya",
+      "data":["2013-15","89%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"Sree chaitanya High School",
+      "data":["2014","86%"]
+    }
+  ],
+  "skills":[
+    {
+    "sname":"Languages",
+    "sdata":["C","C++","Java"]
+  },
+  {
+  "sname":"DataBases",
+  "sdata":["Oracle","MySql","MySqLite","PDO"]
+},
+{
+"sname":"Web Technologies",
+"sdata":["HTML","XML","CSS","PHP","JavaScript"]
+},
+{
+"sname":"Operating Systems",
+"sdata":["Windows","Linux","Unix"]
+}
+  ]
+}
